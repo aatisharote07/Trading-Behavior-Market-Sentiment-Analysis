@@ -1,0 +1,8 @@
+,daily_pnl,daily_pnl,daily_pnl,daily_pnl,daily_pnl,daily_pnl,daily_pnl,daily_volume,daily_volume,daily_volume,avg_leverage,avg_leverage,trade_count,trade_count,win_rate,active_traders
+,count,mean,median,std,min,max,sum,mean,median,std,mean,std,mean,sum,mean,mean
+Classification,,,,,,,,,,,,,,,,
+Extreme Fear,0,,,,,,0.0,,,,,,,0,,
+Extreme Greed,1,176965.492,176965.492,,176965.492,176965.492,176965.492,39406770.25,39406770.25,,1.0,,6962.0,6962,,5.0
+Fear,1,6699925.191,6699925.191,,6699925.191,6699925.191,6699925.191,704158492.98,704158492.98,,1.0,,133871.0,133871,,32.0
+Greed,3,1063205.512,155.503,1841391.297,0.0,3189461.032,3189616.535,38501223.95,11555429.76,56972068.101,1.0,0.0,12096.333,36289,,10.667
+Neutral,1,158742.378,158742.378,,158742.378,158742.378,158742.378,21843234.35,21843234.35,,1.0,,7141.0,7141,,8.0

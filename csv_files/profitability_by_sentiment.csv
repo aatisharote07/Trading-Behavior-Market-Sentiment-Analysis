@@ -1,0 +1,8 @@
+,daily_pnl,daily_pnl,daily_pnl,daily_pnl,win_rate,trade_count,active_traders
+,mean,median,sum,std,mean,sum,mean
+Classification,,,,,,,
+Extreme Fear,,,0.0,,,0,
+Extreme Greed,176965.49,176965.49,176965.49,,,6962,5.0
+Fear,6699925.19,6699925.19,6699925.19,,,133871,32.0
+Greed,1063205.51,155.5,3189616.54,1841391.3,,36289,10.67
+Neutral,158742.38,158742.38,158742.38,,,7141,8.0

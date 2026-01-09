@@ -1,0 +1,6 @@
+date,daily_pnl,avg_trade_pnl,trade_count,daily_volume,avg_leverage,active_traders,win_rate,timestamp,value,Classification,Date,is_fear,is_greed,sentiment_changed,prev_sentiment,transition_type
+2023-03-28,0.0,0.0,3,477.0,1.0,1,,1679981400,59,Greed,2023-03-28,0,1,True,,nan -> Greed
+2024-03-09,176965.491774,25.418772159436944,6962,39406770.25,1.0,5,,1709962200,84,Extreme Greed,2024-03-09,0,0,True,Greed,Greed -> Extreme Greed
+2024-07-03,158742.378078,22.229712656210616,7141,21843234.35,1.0,8,,1719984600,50,Neutral,2024-07-03,0,0,True,Extreme Greed,Extreme Greed -> Neutral
+2024-10-27,3189461.032019,90.50427150248291,35241,103947765.09,1.0,29,,1730007000,74,Greed,2024-10-27,0,1,True,Neutral,Neutral -> Greed
+2025-02-19,6699925.190574,50.047621894017375,133871,704158492.98,1.0,32,,1739943000,44,Fear,2025-02-19,1,0,True,Greed,Greed -> Fear

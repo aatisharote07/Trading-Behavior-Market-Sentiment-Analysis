@@ -1,0 +1,8 @@
+,daily_pnl,daily_pnl,daily_pnl,daily_volume,avg_leverage
+,mean,sum,count,mean,mean
+transition_type,,,,,
+Extreme Greed -> Neutral,158742.38,158742.38,1,21843234.35,1.0
+Greed -> Extreme Greed,176965.49,176965.49,1,39406770.25,1.0
+Greed -> Fear,6699925.19,6699925.19,1,704158492.98,1.0
+Neutral -> Greed,3189461.03,3189461.03,1,103947765.09,1.0
+nan -> Greed,0.0,0.0,1,477.0,1.0
