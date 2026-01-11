@@ -1,6 +1,5 @@
 # Data Science Assignment - Trading Behavior & Market Sentiment
 
-## Candidate: Antigravity
 
 ## Project Overview
 Analysis of the relationship between Hyperliquid trader behavior and Bitcoin market sentiment (Fear & Greed Index).
