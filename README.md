@@ -21,7 +21,7 @@ ds_antigravity/
 │   ├── pnl_by_sentiment.png
 │   ├── correlation_matrix.png
 │   └── ...
-├── ds_report.md             # Final report with insights
+├── ds_report.md             
 └── README.md                # This file
 ```
 
