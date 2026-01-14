@@ -22,7 +22,7 @@ ds_antigravity/
 │   ├── correlation_matrix.png
 │   └── ...
 ├── ds_report.md             
-└── README.md                # This file
+└── README.md                
 ```
 
 ## Key Findings
