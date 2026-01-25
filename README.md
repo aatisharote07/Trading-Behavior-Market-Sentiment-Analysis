@@ -16,7 +16,7 @@ ds_antigravity/
 │   ├── predictive_signals.csv
 │   ├── trader_styles.csv
 │   └── ...
-├── outputs/                  # All visualizations
+├── outputs/                  
 │   ├── summary_dashboard.png
 │   ├── pnl_by_sentiment.png
 │   ├── correlation_matrix.png
