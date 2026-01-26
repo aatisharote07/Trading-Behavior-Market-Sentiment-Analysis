@@ -7,7 +7,7 @@ Analysis of the relationship between Hyperliquid trader behavior and Bitcoin mar
 ## Repository Structure
 ```
 ds_antigravity/
-├── notebook_1.ipynb          # Main analysis notebook 
+├── notebook_1.ipynb          
 ├── csv_files/                
 │   ├── merged_daily_metrics.csv
 │   ├── trader_level_metrics.csv
