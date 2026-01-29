@@ -15,7 +15,7 @@ ds_antigravity/
 │   ├── fear_vs_greed_comparison.csv
 │   ├── predictive_signals.csv
 │   ├── trader_styles.csv
-│   └── ...
+│   
 ├── outputs/                  
 │   ├── summary_dashboard.png
 │   ├── pnl_by_sentiment.png
