@@ -20,7 +20,7 @@ ds_antigravity/
 │   ├── summary_dashboard.png
 │   ├── pnl_by_sentiment.png
 │   ├── correlation_matrix.png
-│   └── ...
+│  
 ├── ds_report.md             
 └── README.md                
 ```
