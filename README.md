@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-Analysis of the relationship between Hyperliquid trader behavior and Bitcoin market sentiment (Fear & Greed Index).
+Analysis of the relationship between Hyperliquid trader behavior and Bitcoin market sentiment.
 
 ## Repository Structure
 ```
