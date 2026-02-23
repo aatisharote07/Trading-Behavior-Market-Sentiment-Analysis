@@ -35,7 +35,7 @@ ds_antigravity/
 
 1. Open `notebook_1.ipynb` in Jupyter or Google Colab
 2. Ensure `historical_data.csv` and `fear_greed_index.csv` are in the expected directory 
-3. Run all cells.
+3. Run all cells
 
 ## Technologies Used
 - Python 3.x
