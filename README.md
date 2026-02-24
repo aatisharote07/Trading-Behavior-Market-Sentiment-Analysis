@@ -27,7 +27,7 @@ ds_antigravity/
 
 ## Key Findings
 
-1. **Profitability**: Analyzed average daily PnL during Fear vs Greed periods.
+1. **Profitability**: Analyzed average daily PnL during Fear vs Greed periods
 2. **Risk Behavior**: Examined leverage usage and its correlation with market sentiment.
 3. **Trader Styles**: Classified traders into Contrarian vs Momentum based on their performance across sentiments.
 
